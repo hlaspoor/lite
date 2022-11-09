@@ -1,6 +1,7 @@
 DOMAIN-SUFFIX,githubusercontent.com,PROXY
 DOMAIN-SUFFIX,google.com,PROXY
 DOMAIN-SUFFIX,google.com.hk,PROXY
+DOMAIN-SUFFIX,googleapis.com,PROXY
 DOMAIN-SUFFIX,twimg.com,PROXY
 DOMAIN-SUFFIX,twitter.com,PROXY
 DOMAIN-SUFFIX,youtube.com,PROXY
