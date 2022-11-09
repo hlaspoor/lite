@@ -1,3 +1,4 @@
 
 DOMAIN-SUFFIX,google.com,PROXY
 DOMAIN-SUFFIX,youtube.com,PROXY
+DOMAIN-SUFFIX,githubusercontent.com,PROXY
