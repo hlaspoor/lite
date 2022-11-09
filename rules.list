@@ -1,2 +1,3 @@
 
-DOMAIN-SUFFIX,a.hl.mi.com,REJECT
+DOMAIN-SUFFIX,google.com,PROXY
+DOMAIN-SUFFIX,youtube.com,PROXY
