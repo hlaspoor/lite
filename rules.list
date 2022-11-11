@@ -1,4 +1,5 @@
 DOMAIN-SUFFIX,facebook.com,PROXY
+DOMAIN-SUFFIX,fbcdn.net,PROXY
 DOMAIN-SUFFIX,githubusercontent.com,PROXY
 DOMAIN-SUFFIX,ggpht.com,PROXY
 DOMAIN-SUFFIX,google.com,PROXY
